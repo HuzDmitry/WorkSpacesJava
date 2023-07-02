@@ -25,7 +25,6 @@ public class Homework {
      * abba -> true
      */
     static boolean isPalindrome(String source) {
-        // TODO: 08.06.2023
         return false;
     }
     
