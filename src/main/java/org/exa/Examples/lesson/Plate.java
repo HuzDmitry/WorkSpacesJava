@@ -1,4 +1,4 @@
-package org.exa.Examples.lesson6;
+package org.exa.Examples.lesson;
 
 public class Plate {
 

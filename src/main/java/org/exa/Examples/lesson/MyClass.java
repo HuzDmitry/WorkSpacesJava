@@ -1,4 +1,4 @@
-package org.exa.Examples.lesson6;
+package org.exa.Examples.lesson;
 
 @MyAnno(parameter = "asdfadf")
 public class MyClass {

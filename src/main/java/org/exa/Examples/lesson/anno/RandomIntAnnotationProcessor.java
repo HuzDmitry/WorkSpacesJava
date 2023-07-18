@@ -1,4 +1,4 @@
-package org.exa.Examples.lesson6.anno;
+package org.exa.Examples.lesson.anno;
 
 import java.lang.reflect.Field;
 import java.util.concurrent.ThreadLocalRandom;

@@ -1,4 +1,4 @@
-package org.exa.Examples.lesson6.anno;
+package org.exa.Examples.lesson.anno;
 
 public class AnnotationDemo {
 

@@ -1,5 +1,4 @@
-package org.exa.Examples.lesson6.anno;
-
+package org.exa.Examples.lesson;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
@@ -7,11 +6,9 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 @Retention(RetentionPolicy.RUNTIME)
-@Target({ElementType.FIELD})
-public @interface RandomInt {
+@Target({ElementType.TYPE, ElementType.CONSTRUCTOR, ElementType.PARAMETER})
+public @interface MyAnno {
 
-    int min() default 0;
-
-    int max() default Integer.MAX_VALUE;
+    String parameter() default "default_value";
 
 }
