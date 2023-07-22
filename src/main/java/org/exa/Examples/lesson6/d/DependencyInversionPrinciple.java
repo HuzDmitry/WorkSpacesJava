@@ -1,7 +1,4 @@
-package ru.gb.lesson6.d;
-
-import ru.gb.lesson6.i.InterfaceSegregationPrinciple;
-import ru.gb.lesson6.s.SingleResponsibilityPrinciple;
+package org.exa.Examples.lesson6.d;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

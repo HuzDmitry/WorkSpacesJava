@@ -1,4 +1,4 @@
-package ru.gb.lesson6.s;
+package org.exa.Examples.lesson6.s;
 
 public class SingleResponsibilityPrinciple {
 

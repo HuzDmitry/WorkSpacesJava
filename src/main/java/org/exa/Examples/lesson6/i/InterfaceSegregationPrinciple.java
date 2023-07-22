@@ -1,4 +1,4 @@
-package ru.gb.lesson6.i;
+package org.exa.Examples.lesson6.i;
 
 import java.util.List;
 

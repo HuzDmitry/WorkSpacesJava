@@ -1,4 +1,4 @@
-package ru.gb.lesson6;
+package org.exa.Examples.lesson6;
 
 import java.util.UUID;
 

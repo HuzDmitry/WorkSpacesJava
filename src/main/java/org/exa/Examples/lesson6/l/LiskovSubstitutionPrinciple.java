@@ -1,4 +1,4 @@
-package ru.gb.lesson6.l;
+package org.exa.Examples.lesson6.l;
 
 import java.awt.*;
 

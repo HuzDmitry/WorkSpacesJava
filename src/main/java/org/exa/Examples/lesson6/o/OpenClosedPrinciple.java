@@ -1,4 +1,4 @@
-package ru.gb.lesson6.o;
+package org.exa.Examples.lesson6.o;
 
 import java.util.Collection;
 import java.util.Collections;

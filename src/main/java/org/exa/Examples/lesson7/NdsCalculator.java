@@ -1,6 +1,5 @@
-package ru.gb.lesson7;
+package org.exa.Examples.lesson7;
 
-import ru.gb.lesson6.s.SingleResponsibilityPrinciple;
 
 //@Component
 public class NdsCalculator {

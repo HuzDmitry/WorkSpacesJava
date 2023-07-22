@@ -1,4 +1,4 @@
-package ru.gb.lesson7;
+package org.exa.Examples.lesson7;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

@@ -1,4 +1,4 @@
-package ru.gb.lesson6.demo;
+package org.exa.Examples.lesson6.demo;
 
 public class FizzBuzz {
 
